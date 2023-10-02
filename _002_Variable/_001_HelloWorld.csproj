@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{50BAEE89-50C1-4DA6-906C-CD2BD7A243C4}</ProjectGuid>
+    <ProjectGuid>{D19CCA9F-A19A-4F5B-9305-E8E8ACA8C6E4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Csharp_Basic_00</RootNamespace>
-    <AssemblyName>Csharp_Basic_00</AssemblyName>
+    <RootNamespace>ConsoleApp2</RootNamespace>
+    <AssemblyName>ConsoleApp2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
