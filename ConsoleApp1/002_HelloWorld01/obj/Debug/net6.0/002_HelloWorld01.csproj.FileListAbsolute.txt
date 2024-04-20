@@ -1,0 +1,15 @@
+D:\Project\CSharp\ConsoleApp1\002_HelloWorld01\bin\Debug\net6.0\002_HelloWorld01.exe
+D:\Project\CSharp\ConsoleApp1\002_HelloWorld01\bin\Debug\net6.0\002_HelloWorld01.deps.json
+D:\Project\CSharp\ConsoleApp1\002_HelloWorld01\bin\Debug\net6.0\002_HelloWorld01.runtimeconfig.json
+D:\Project\CSharp\ConsoleApp1\002_HelloWorld01\bin\Debug\net6.0\002_HelloWorld01.dll
+D:\Project\CSharp\ConsoleApp1\002_HelloWorld01\bin\Debug\net6.0\002_HelloWorld01.pdb
+D:\Project\CSharp\ConsoleApp1\002_HelloWorld01\obj\Debug\net6.0\002_HelloWorld01.csproj.AssemblyReference.cache
+D:\Project\CSharp\ConsoleApp1\002_HelloWorld01\obj\Debug\net6.0\002_HelloWorld01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharp\ConsoleApp1\002_HelloWorld01\obj\Debug\net6.0\002_HelloWorld01.AssemblyInfoInputs.cache
+D:\Project\CSharp\ConsoleApp1\002_HelloWorld01\obj\Debug\net6.0\002_HelloWorld01.AssemblyInfo.cs
+D:\Project\CSharp\ConsoleApp1\002_HelloWorld01\obj\Debug\net6.0\002_HelloWorld01.csproj.CoreCompileInputs.cache
+D:\Project\CSharp\ConsoleApp1\002_HelloWorld01\obj\Debug\net6.0\002_HelloWorld01.dll
+D:\Project\CSharp\ConsoleApp1\002_HelloWorld01\obj\Debug\net6.0\refint\002_HelloWorld01.dll
+D:\Project\CSharp\ConsoleApp1\002_HelloWorld01\obj\Debug\net6.0\002_HelloWorld01.pdb
+D:\Project\CSharp\ConsoleApp1\002_HelloWorld01\obj\Debug\net6.0\002_HelloWorld01.genruntimeconfig.cache
+D:\Project\CSharp\ConsoleApp1\002_HelloWorld01\obj\Debug\net6.0\ref\002_HelloWorld01.dll
