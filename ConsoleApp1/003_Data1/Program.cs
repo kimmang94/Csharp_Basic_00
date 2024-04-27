@@ -22,6 +22,9 @@ namespace _003_Data1
             Console.WriteLine("short c : " + c);
             Console.WriteLine("long d : " + d);
             Console.WriteLine("ulong f : " + f);
+
+            // 각 데이터형의 최솟값 최댓값
+            Console.WriteLine($"short.MaxValue : {short.MaxValue}, short.MaxValue : {short.MaxValue}");
         }
     }
 }
