@@ -1,0 +1,8 @@
+D:\Project\CSharp\ConsoleApp1\005_Polymorphism\bin\Debug\005_Polymorphism.exe.config
+D:\Project\CSharp\ConsoleApp1\005_Polymorphism\bin\Debug\005_Polymorphism.exe
+D:\Project\CSharp\ConsoleApp1\005_Polymorphism\bin\Debug\005_Polymorphism.pdb
+D:\Project\CSharp\ConsoleApp1\005_Polymorphism\obj\Debug\005_Polymorphism.csproj.AssemblyReference.cache
+D:\Project\CSharp\ConsoleApp1\005_Polymorphism\obj\Debug\005_Polymorphism.csproj.SuggestedBindingRedirects.cache
+D:\Project\CSharp\ConsoleApp1\005_Polymorphism\obj\Debug\005_Polymorphism.csproj.CoreCompileInputs.cache
+D:\Project\CSharp\ConsoleApp1\005_Polymorphism\obj\Debug\005_Polymorphism.exe
+D:\Project\CSharp\ConsoleApp1\005_Polymorphism\obj\Debug\005_Polymorphism.pdb

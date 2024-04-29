@@ -53,17 +53,23 @@ namespace _004_Array
 
             while (true)
             {
-                arrIndexX[0]++;
-                arrIndexX[1]++;
-                arrIndexX[2]++;
-                arrIndexX[3]++;
-                arrIndexX[4]++;
+                for (int i = 0; i < arrIndexX.Length; i++)
+                {
+                    int indexMaxX = arrIndexX[i];
+                    int indexY = arrIndexX[i];
 
-                map[1, arrIndexX[0]] = 3;
-                map[2, arrIndexX[1]] = 4;
-                map[3, arrIndexX[2]] = 5;
-                map[4, arrIndexX[3]] = 6;
-                map[5, arrIndexX[4]] = 7;
+                    int temp = map[indexMaxX, indexY];
+                    map[indexMaxX, indexY + 1] = temp;
+                    map[indexMaxX, arrIndexX[i]] = 0;
+
+                    if (arrIndexX[i] < 19)
+                    {
+                        arrIndexX[i]++;
+                    }
+
+                }
+ 
+               
                 UpdateView(tile, map);
                 ClearView();
             }
