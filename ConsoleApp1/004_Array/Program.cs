@@ -3,13 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using System.Threading;
 namespace _004_Array
 {
     internal class Program
     {
         const int MAP_X = 7;
         const int MAP_Y = 22;
+        const int DELAY_TIME = 300;
         static void UpdateView(char[] _tile, int[,] _map)
         {
             for (int i = 0; i < MAP_X; i++)
@@ -26,9 +27,15 @@ namespace _004_Array
                 }
             }
         }
+
+        static void ClearView()
+        {
+            Thread.Sleep(DELAY_TIME);
+            Console.Clear();
+        }
         static void Main(string[] args)
         {
-
+ 
             char[] tile = { ' ', '-', '|', '1', '2', '3', '4', '5' };
 
             int[,] map = new int[MAP_X, MAP_Y]
@@ -42,9 +49,24 @@ namespace _004_Array
                 {1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
             };
 
-            UpdateView(tile, map);
+            int[] arrIndexX = { 0, 0, 0, 0, 0 };
 
-            Console.ReadLine();
+            while (true)
+            {
+                arrIndexX[0]++;
+                arrIndexX[1]++;
+                arrIndexX[2]++;
+                arrIndexX[3]++;
+                arrIndexX[4]++;
+
+                map[1, arrIndexX[0]] = 3;
+                map[2, arrIndexX[1]] = 4;
+                map[3, arrIndexX[2]] = 5;
+                map[4, arrIndexX[3]] = 6;
+                map[5, arrIndexX[4]] = 7;
+                UpdateView(tile, map);
+                ClearView();
+            }
         }
     }
 }
