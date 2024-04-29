@@ -7,7 +7,7 @@
     <ProjectGuid>{86E34AA0-6255-4535-BF6F-B20849FC4974}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_004_Array</RootNamespace>
-    <AssemblyName>_004_Array</AssemblyName>
+    <AssemblyName>004_Array</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

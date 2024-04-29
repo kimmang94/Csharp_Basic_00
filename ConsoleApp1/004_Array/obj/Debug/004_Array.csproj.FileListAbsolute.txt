@@ -1,0 +1,8 @@
+D:\Project\CSharp\ConsoleApp1\004_Array\bin\Debug\004_Array.exe.config
+D:\Project\CSharp\ConsoleApp1\004_Array\bin\Debug\004_Array.exe
+D:\Project\CSharp\ConsoleApp1\004_Array\bin\Debug\004_Array.pdb
+D:\Project\CSharp\ConsoleApp1\004_Array\obj\Debug\004_Array.csproj.AssemblyReference.cache
+D:\Project\CSharp\ConsoleApp1\004_Array\obj\Debug\004_Array.csproj.SuggestedBindingRedirects.cache
+D:\Project\CSharp\ConsoleApp1\004_Array\obj\Debug\004_Array.csproj.CoreCompileInputs.cache
+D:\Project\CSharp\ConsoleApp1\004_Array\obj\Debug\004_Array.exe
+D:\Project\CSharp\ConsoleApp1\004_Array\obj\Debug\004_Array.pdb
