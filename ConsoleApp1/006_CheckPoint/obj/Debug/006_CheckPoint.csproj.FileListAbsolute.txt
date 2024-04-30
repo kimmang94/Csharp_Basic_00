@@ -1,0 +1,8 @@
+D:\Project\CSharp\ConsoleApp1\006_CheckPoint\bin\Debug\006_CheckPoint.exe.config
+D:\Project\CSharp\ConsoleApp1\006_CheckPoint\bin\Debug\006_CheckPoint.exe
+D:\Project\CSharp\ConsoleApp1\006_CheckPoint\bin\Debug\006_CheckPoint.pdb
+D:\Project\CSharp\ConsoleApp1\006_CheckPoint\obj\Debug\006_CheckPoint.csproj.AssemblyReference.cache
+D:\Project\CSharp\ConsoleApp1\006_CheckPoint\obj\Debug\006_CheckPoint.csproj.SuggestedBindingRedirects.cache
+D:\Project\CSharp\ConsoleApp1\006_CheckPoint\obj\Debug\006_CheckPoint.csproj.CoreCompileInputs.cache
+D:\Project\CSharp\ConsoleApp1\006_CheckPoint\obj\Debug\006_CheckPoint.exe
+D:\Project\CSharp\ConsoleApp1\006_CheckPoint\obj\Debug\006_CheckPoint.pdb
