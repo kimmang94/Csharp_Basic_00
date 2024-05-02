@@ -34,7 +34,6 @@ namespace _006_CheckPoint
         }
     internal class Program
     {
-        
         static void Main(string[] args)
         {
             List<CStudent> listData = new List<CStudent>();
